@@ -43,8 +43,8 @@ class Solution:
             #type center: int
             #type res: tuples of int
             #return type: float
-            
-            #TODO: Write code below to return a float with the solution to the prompt.
+
+            return center*(2/res[0]) -1
             pass
         
         
